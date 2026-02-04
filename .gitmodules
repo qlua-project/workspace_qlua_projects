@@ -7,3 +7,6 @@
 [submodule "test_scripts_standalone"]
 	path = test_scripts_standalone
 	url = git@github.com:qlua-project/test_scripts_standalone.git
+[submodule "orderbook-depth-ratio"]
+	path = orderbook-depth-ratio
+	url = git@github.com:qlua-project/orderbook-depth-ratio.git

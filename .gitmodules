@@ -1,0 +1,6 @@
+[submodule "test_project_standalone"]
+	path = test_project_standalone
+	url = git@github.com:qlua-project/test_project_standalone.git
+[submodule "qlua-shared-library"]
+	path = qlua-shared-library
+	url = git@github.com:qlua-project/qlua-shared-library.git

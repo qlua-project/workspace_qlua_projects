@@ -1,0 +1,9 @@
+{
+  "folders": [
+    { "path": "../orderbook-depth-ratio", "name": "orderbook-depth-ratio" },
+    { "path": "../qlua-shared-library", "name": "qlua-shared-library" },
+    { "path": "../test_scripts_standalone", "name": "test_scripts_standalone" },
+  ],
+  "settings":{
+  }
+}
